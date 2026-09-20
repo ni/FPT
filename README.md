@@ -68,8 +68,8 @@ This Repo includes examples of Measurement Plugin listed below that use the same
 - niDCPower 26Q1
 - niDigital 26Q1
 - niSwitch 2023Q3
-- ni SPML 2023
-- ni PAEML 2023
+- ni SPML 2024
+- ni PAEML 2024
 - Measurement Plug-in SDK 3.5.4.1
 
 ### Start your first measurement with the example
